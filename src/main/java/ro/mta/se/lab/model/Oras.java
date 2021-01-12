@@ -1,12 +1,38 @@
 package ro.mta.se.lab.model;
 import javafx.beans.property.*;
+/**
+ *
+ * This Model class Oras contains parameters from in.txt
+ * and a get method for each parameter
+ * @author Alexandra Naicu
+ */
 
 public class Oras {
     StringProperty ID;
+    /**
+     *
+     * @param ID city id from file
+     */
     StringProperty nm;
+    /**
+     *
+     * @param nm country name from file
+     */
     StringProperty lat;
+    /**
+     *
+     * @param lat city latitude from file
+     */
     StringProperty lon;
+    /**
+     *
+     * @param lon city longitude from file
+     */
     StringProperty countryCode;
+    /**
+     *
+     * @param countryCode country code from file
+     */
 
     public Oras(String ID, String nm, String lat, String lon, String countryCode)
     {

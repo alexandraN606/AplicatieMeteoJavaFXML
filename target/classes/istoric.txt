@@ -1,0 +1,250 @@
+
+Temperatura: 274.88K
+Presiunea: 1016Pa
+Umiditate: 96RH
+Viteza Vant: 2.68Vh
+
+Temperatura: 281.92K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 7.72Vh
+
+Temperatura: 282.27K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 7.72Vh
+
+Temperatura: 262.48K
+Presiunea: 1019Pa
+Umiditate: 85RH
+Viteza Vant: 3Vh
+
+Temperatura: 282.27K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 7.72Vh
+
+Temperatura: 282.27K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 7.72Vh
+
+Temperatura: 282.27K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 7.72Vh
+
+Temperatura: 277.13K
+Presiunea: 1023Pa
+Umiditate: 60RH
+Viteza Vant: 4.63Vh
+
+Temperatura: 262.48K
+Presiunea: 1019Pa
+Umiditate: 85RH
+Viteza Vant: 3Vh
+
+Temperatura: 262.83K
+Presiunea: 1020Pa
+Umiditate: 100RH
+Viteza Vant: 1Vh
+
+Temperatura: 277.13K
+Presiunea: 1023Pa
+Umiditate: 60RH
+Viteza Vant: 4.63Vh
+
+Temperatura: 262.15K
+Presiunea: 1019Pa
+Umiditate: 85RH
+Viteza Vant: 3Vh
+
+Temperatura: 282.27K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 8.23Vh
+
+Temperatura: 282.27K
+Presiunea: 1019Pa
+Umiditate: 93RH
+Viteza Vant: 8.23Vh
+
+Temperatura: 275.23K
+Presiunea: 1015Pa
+Umiditatea: 96RH
+Viteza Vant: 2.91Vh
+
+Temperatura: 263.5K
+Presiunea: 1020Pa
+Umiditatea: 92RH
+Viteza Vant: 2Vh
+
+Temperatura: 282.62K
+Presiunea: 1020Pa
+Umiditatea: 93RH
+Viteza Vant: 9.26Vh
+
+Temperatura: 283.15K
+Presiunea: 1020Pa
+Umiditatea: 93RH
+Viteza Vant: 7.72Vh
+
+Temperatura: 263.15K
+Presiunea: 1019Pa
+Umiditatea: 79RH
+Viteza Vant: 3Vh
+
+Temperatura: 263.18K
+Presiunea: 1019Pa
+Umiditatea: 92RH
+Viteza Vant: 1Vh
+
+Temperatura: -10.96999999999997C
+Presiunea: 1019Pa
+Umiditatea: 92RH
+Viteza Vant: 1Vh
+
+Temperatura: -9.850000000000023C
+Presiunea: 1019Pa
+Umiditatea: 79RH
+Viteza Vant: 3Vh
+
+Temperatura: -9.990000000000009C
+Presiunea: 1019Pa
+Umiditatea: 79RH
+Viteza Vant: 3Vh
+
+Temperatura: -9.990000000000009C
+Presiunea: 1019Pa
+Umiditatea: 79RH
+Viteza Vant: 3Vh
+
+Temperatura: 6.350000000000023C
+Presiunea: 1023Pa
+Umiditatea: 49RH
+Viteza Vant: 3.09Vh
+
+Temperatura: -11.289999999999964C
+Presiunea: 1019Pa
+Umiditatea: 92RH
+Viteza Vant: 2Vh
+
+Temperatura: 5.340000000000032C
+Presiunea: 1023Pa
+Umiditatea: 49RH
+Viteza Vant: 3.09Vh
+
+Temperatura: -11.329999999999984C
+Presiunea: 1019Pa
+Umiditatea: 85RH
+Viteza Vant: 3Vh
+
+Temperatura: 1.5500000000000114C
+Presiunea: 1012Pa
+Umiditatea: 96RH
+Viteza Vant: 2.68Vh
+
+Temperatura: -11.289999999999964C
+Presiunea: 1019Pa
+Umiditatea: 92RH
+Viteza Vant: 2Vh
+
+Temperatura: -11.329999999999984C
+Presiunea: 1019Pa
+Umiditatea: 85RH
+Viteza Vant: 3Vh
+
+Temperatura: 9.720000000000027C
+Presiunea: 1020Pa
+Umiditatea: 87RH
+Viteza Vant: 9.26Vh
+
+Temperatura: 1.5500000000000114C
+Presiunea: 1012Pa
+Umiditatea: 96RH
+Viteza Vant: 2.68Vh
+
+Temperatura: 9.720000000000027C
+Presiunea: 1020Pa
+Umiditatea: 87RH
+Viteza Vant: 9.26Vh
+
+Temperatura: -11.289999999999964C
+Presiunea: 1019Pa
+Umiditatea: 86RH
+Viteza Vant: 2Vh
+
+Temperatura: 7.680000000000007C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: 7.680000000000007C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: 7.680000000000007C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: 7.680000000000007C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: -11.289999999999964C
+Presiunea: 1019Pa
+Umiditatea: 86RH
+Viteza Vant: 2Vh
+
+Temperatura: 8.83C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: 8C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: 11C
+Presiunea: 1020Pa
+Umiditatea: 87RH
+Viteza Vant: 9.26Vh
+
+Temperatura: 2C
+Presiunea: 1012Pa
+Umiditatea: 96RH
+Viteza Vant: 2.68Vh
+
+Temperatura: -10C
+Presiunea: 1019Pa
+Umiditatea: 86RH
+Viteza Vant: 2Vh
+
+Temperatura: -10C
+Presiunea: 1019Pa
+Umiditatea: 86RH
+Viteza Vant: 2Vh
+
+Temperatura: 8C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: 8C
+Presiunea: 1023Pa
+Umiditatea: 43RH
+Viteza Vant: 4.12Vh
+
+Temperatura: -10C
+Presiunea: 1019Pa
+Umiditatea: 86RH
+Viteza Vant: 2Vh
+
+Temperatura: -9C
+Presiunea: 1019Pa
+Umiditatea: 79RH
+Viteza Vant: 3Vh

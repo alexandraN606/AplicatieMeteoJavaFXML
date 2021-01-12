@@ -13,6 +13,13 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ *
+ * This class Main contains method from start fxml program
+ * and a method for read from file
+ * @author Alexandra Naicu
+ */
+
 public class Main extends Application {
     private ObservableList<Oras> CityList = FXCollections.observableArrayList();
 
@@ -20,6 +27,12 @@ public class Main extends Application {
         launch(args);
     }
 
+    /**
+     *
+     * This function is used to read from file
+     * and put data in a CityList
+     * @throws FileNotFoundException if the file can't be opened
+     */
     public void citire_fisier() {
         try {
             File myObj = new File("src/main/resources/in.txt");
@@ -28,7 +41,7 @@ public class Main extends Application {
             while (myReader.hasNextLine()) {
                 data = myReader.nextLine();
                 //System.out.println(data);
-                String[] vector = data.split(" ");
+                String[] vector = data.split(" ");//strtok de java, iau fiecare categorie tokenizata prin spatiu
                 //System.out.println(vector[1]);
                 Oras city = new Oras(vector[0], vector[1], vector[2], vector[3], vector[4]);
                 //System.out.println(city.getName());
@@ -42,7 +55,11 @@ public class Main extends Application {
         }
 
     }
-
+    /**
+     *
+     * This function starts call read from file
+     * and start FXMLfile and VremeController constructor
+     */
     public void start(Stage primaryStage) {
         citire_fisier();
         FXMLLoader loader = new FXMLLoader();
