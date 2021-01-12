@@ -1,5 +1,4 @@
 package ro.mta.se.lab.controller;
-
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;

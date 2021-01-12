@@ -1,10 +1,14 @@
 package ro.mta.se.lab;
+
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import org.junit.runner.JUnitCore;
+import org.junit.runner.Result;
+import org.junit.runner.notification.Failure;
 import ro.mta.se.lab.controller.VremeController;
 import ro.mta.se.lab.model.Oras;
 
@@ -61,6 +65,12 @@ public class Main extends Application {
      * and start FXMLfile and VremeController constructor
      */
     public void start(Stage primaryStage) {
+        //testare Unitara
+        Result result = JUnitCore.runClasses(TestareUnitara.class);
+        for (Failure failure : result.getFailures()) {
+            System.out.println(failure.toString());
+        }
+        System.out.println("Result was succeful " + result.wasSuccessful());
         citire_fisier();
         FXMLLoader loader = new FXMLLoader();
 

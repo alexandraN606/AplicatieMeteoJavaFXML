@@ -1,5 +1,7 @@
 package ro.mta.se.lab.model;
-import javafx.beans.property.*;
+import javafx.beans.property.SimpleStringProperty;
+import javafx.beans.property.StringProperty;
+
 /**
  *
  * This Model class Oras contains parameters from in.txt
@@ -34,6 +36,7 @@ public class Oras {
      * @param countryCode country code from file
      */
 
+
     public Oras(String ID, String nm, String lat, String lon, String countryCode)
     {
         this.ID= new SimpleStringProperty(ID);
@@ -42,6 +45,10 @@ public class Oras {
         this.lon=new SimpleStringProperty(lon);
         this.countryCode=new SimpleStringProperty(countryCode);
 
+    }
+    public Oras(String countryCode)
+    {
+        this.countryCode=new SimpleStringProperty(countryCode);
     }
     public String getID()
     {
@@ -63,4 +70,6 @@ public class Oras {
     {
         return lon.get();//longitudine
     }
+
+
 }
