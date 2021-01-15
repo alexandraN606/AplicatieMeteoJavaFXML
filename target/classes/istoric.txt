@@ -273,3 +273,8 @@ Temperatura: -10C
 Presiunea: 1019Pa
 Umiditatea: 92RH
 Viteza Vant: 4Vh
+
+Temperatura: 4C
+Presiunea: 1020Pa
+Umiditatea: 61RH
+Viteza Vant: 6.69Vh
