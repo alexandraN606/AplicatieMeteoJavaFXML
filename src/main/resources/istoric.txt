@@ -318,3 +318,13 @@ Temperatura: 6C
 Presiunea: 1025Pa
 Umiditatea: 60RH
 Viteza Vant: 3.6Vh
+
+Temperatura: 6C
+Presiunea: 1025Pa
+Umiditatea: 60RH
+Viteza Vant: 3.6Vh
+
+Temperatura: 6C
+Presiunea: 1025Pa
+Umiditatea: 60RH
+Viteza Vant: 3.6Vh

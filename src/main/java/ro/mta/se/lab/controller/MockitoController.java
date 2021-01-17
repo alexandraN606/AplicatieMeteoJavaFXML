@@ -29,6 +29,7 @@ public class MockitoController {
 @Test
   public void getOrasTest()
 {
+
   when(oras.getName()).thenReturn("Moscow");
   city=oras.getName();
   System.out.println(city);

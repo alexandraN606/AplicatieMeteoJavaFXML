@@ -111,6 +111,8 @@ public class VremeController implements Initializable {
     public void getVreme() throws IOException,ParseException
 {   //scriem in fisierul istoric toate inf pe care le punem si in label-uri
 
+
+
     BufferedWriter writer = new BufferedWriter(new FileWriter("src/main/resources/istoric.txt", true));
     JSONParser jsonParser = new JSONParser();
     try
