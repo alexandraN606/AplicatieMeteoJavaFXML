@@ -46,6 +46,7 @@ public class Oras {
         this.countryCode=new SimpleStringProperty(countryCode);
 
     }
+
     public Oras(String countryCode)
     {
         this.countryCode=new SimpleStringProperty(countryCode);

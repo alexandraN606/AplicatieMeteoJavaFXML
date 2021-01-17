@@ -283,3 +283,38 @@ Temperatura: -18C
 Presiunea: 1008Pa
 Umiditatea: 78RH
 Viteza Vant: 2Vh
+
+Temperatura: -22C
+Presiunea: 1016Pa
+Umiditatea: 84RH
+Viteza Vant: 1.67Vh
+
+Temperatura: 7C
+Presiunea: 1024Pa
+Umiditatea: 57RH
+Viteza Vant: 6.69Vh
+
+Temperatura: 7C
+Presiunea: 1024Pa
+Umiditatea: 53RH
+Viteza Vant: 5.14Vh
+
+Temperatura: -22C
+Presiunea: 1016Pa
+Umiditatea: 84RH
+Viteza Vant: 1Vh
+
+Temperatura: 4C
+Presiunea: 1029Pa
+Umiditatea: 81RH
+Viteza Vant: 1.54Vh
+
+Temperatura: 7C
+Presiunea: 1024Pa
+Umiditatea: 53RH
+Viteza Vant: 5.14Vh
+
+Temperatura: 6C
+Presiunea: 1025Pa
+Umiditatea: 60RH
+Viteza Vant: 3.6Vh

@@ -26,12 +26,16 @@ import java.util.ResourceBundle;
 
 public class VremeController implements Initializable {
 
-
+    private static Oras city;
     private ObservableList<Oras> CityList;
     private ActionEvent event;
 
     public VremeController(ObservableList<Oras> CityList) {
         this.CityList = CityList;
+    }
+
+    public VremeController() {
+
     }
 
     /**
@@ -103,6 +107,7 @@ public class VremeController implements Initializable {
      * and write in a file a history with all the information
      */
 
+
     public void getVreme() throws IOException,ParseException
 {   //scriem in fisierul istoric toate inf pe care le punem si in label-uri
 
@@ -117,17 +122,16 @@ public class VremeController implements Initializable {
 
         JSONArray vremeVector= (JSONArray) jsonObject.get("weather");
         JSONObject wheter= (JSONObject) vremeVector.get(0);
+        JSONObject main = (JSONObject)jsonObject.get( "main" );
         String vreme= (String) wheter.get("main");
         String name = (String)jsonObject.get("name");
         if(name != null) {
             orasL.setText( name.toString()+ ": "+ vreme.toString());
         }
-
-        JSONObject main = (JSONObject)jsonObject.get( "main" );
         Double temperatura = (Double)main.get("temp");
         Double temperaturaCelsius = (Double)main.get("temp")-273;
         int tempC=temperaturaCelsius.intValue();
-        if(temperatura != null) {
+        if(tempC != 0) {
             writer.newLine();
             temperaturaL.setText("Temperatura: " + tempC + "C");
             writer.write("Temperatura: " + tempC + "C");
@@ -171,6 +175,8 @@ public class VremeController implements Initializable {
         e.printStackTrace();
     }
 }
+
+
     @FXML
     public void button_hendler() throws IOException, ParseException{
        // System.out.println("Da-mi vreme!");
